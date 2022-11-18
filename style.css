@@ -1,0 +1,25 @@
+input{
+  width: 30%;
+  text-align: center;
+  margin: auto;
+  margin-left: 35%;
+  padding: 10px;
+  margin-bottom: 5%;
+  font-family: 'Roboto', sans-serif;
+}
+button {
+  margin: auto;
+  padding: 10px;
+  margin-bottom: 5%;
+  font-family: 'Roboto', sans-serif;
+}
+
+.vals{
+  text-align: left;
+  font-family: 'Roboto', sans-serif;
+}
+.vals2{
+  text-align: left;
+  font-family: 'Roboto', sans-serif;
+  color: #777;
+}
